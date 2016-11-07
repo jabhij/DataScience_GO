@@ -255,6 +255,10 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 * [Wolfram Alpha](http://bit.ly/wolframalpha-torus) - The smart number and info cruncher
 * [Khan Academy](http://bit.ly/khan-academy-lifeinsurance) - High quality, free learning videos
 
+#### Communities to Join In
+* [DataScience Central](www.datasciencecentral.com)
+* [Stack Exchange - DataScience](datascience.stackexchange.com)
+
 ***
 
 ### Notation
